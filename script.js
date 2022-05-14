@@ -38,5 +38,22 @@ console.log(multiply(1,9,10));
 document.write(multiply(1,9,10));
 
 
-// divi
+// // division function
+// function divide()
+
+
+
+
+
+
+// reminder function
+function remainder(number1, number2){
+    return number1 % number2
+}
+
+alert(remainder(14, 3));
+console.log(remainder(32,5));
+document.write(remainder(8,3))
+
+
 
